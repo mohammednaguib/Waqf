@@ -10,6 +10,6 @@
 
 The application is being developed on an open platform for everyone to experience and continuously develop it, as a first phase. Then it will be transferred to the cloud to establish an official charitable company to work on it. This company will provide advanced and specialized technological services to the community, aiming to use the profits from the program to support and finance charitable projects.
 
-I, Mohamed Najib, have donated my expertise and skills in the field of information security to ensure the safety of the program and the protection of user data. All technical security equipment will be developed under my responsibility, ensuring the highest levels of security and privacy for users.
+I, Mohamed Nagib, have donated my expertise and skills in the field of information security to ensure the safety of the program and the protection of user data. All technical security equipment will be developed under my responsibility, ensuring the highest levels of security and privacy for users.
 
 The scope of services provided by the "Waqf" application includes a variety of technological and software services that contribute to the development of the community and serving the greater good, such as providing online educational courses, providing medical assistance and establishing a medical center, and organizing charitable campaigns and donations for those in need.
